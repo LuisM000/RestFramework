@@ -1,0 +1,14 @@
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\RestExample\bin\Debug\RestExample.exe.config
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\RestExample\bin\Debug\RestExample.exe
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\RestExample\bin\Debug\RestExample.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\RestExample\bin\Debug\Infrastructure.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\RestExample\bin\Debug\Model.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\RestExample\bin\Debug\Services.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\RestExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\RestExample\bin\Debug\Infrastructure.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\RestExample\bin\Debug\Model.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\RestExample\bin\Debug\Services.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\RestExample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\RestExample\obj\Debug\RestExample.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\RestExample\obj\Debug\RestExample.exe
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\RestExample\obj\Debug\RestExample.pdb

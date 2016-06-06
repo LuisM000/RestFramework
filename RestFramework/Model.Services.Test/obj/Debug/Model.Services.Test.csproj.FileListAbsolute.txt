@@ -1,0 +1,7 @@
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Model.Services.Test\obj\Debug\Model.Services.Test.csprojResolveAssemblyReference.cache
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Model.Services.Test\bin\Debug\Model.Services.Test.dll
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Model.Services.Test\bin\Debug\Model.Services.Test.pdb
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Model.Services.Test\bin\Debug\Model.dll
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Model.Services.Test\bin\Debug\Model.pdb
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Model.Services.Test\obj\Debug\Model.Services.Test.dll
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Model.Services.Test\obj\Debug\Model.Services.Test.pdb

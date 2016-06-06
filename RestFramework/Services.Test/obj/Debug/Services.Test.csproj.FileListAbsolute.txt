@@ -1,0 +1,15 @@
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Services.Test\obj\Debug\Services.Test.csprojResolveAssemblyReference.cache
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Services.Test\bin\Debug\Services.Test.dll
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Services.Test\bin\Debug\Services.Test.pdb
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Services.Test\bin\Debug\Infrastructure.dll
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Services.Test\bin\Debug\Model.dll
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Services.Test\bin\Debug\Moq.dll
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Services.Test\bin\Debug\Services.dll
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Services.Test\bin\Debug\Newtonsoft.Json.dll
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Services.Test\bin\Debug\Infrastructure.pdb
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Services.Test\bin\Debug\Model.pdb
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Services.Test\bin\Debug\Services.pdb
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Services.Test\bin\Debug\Moq.xml
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Services.Test\bin\Debug\Newtonsoft.Json.xml
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Services.Test\obj\Debug\Services.Test.dll
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Services.Test\obj\Debug\Services.Test.pdb

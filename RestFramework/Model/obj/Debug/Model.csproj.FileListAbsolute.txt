@@ -1,0 +1,5 @@
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Model\bin\Debug\Model.dll
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Model\bin\Debug\Model.pdb
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Model\obj\Debug\Model.dll
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Model\obj\Debug\Model.pdb

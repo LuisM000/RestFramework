@@ -1,0 +1,13 @@
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\IntegrationTest\obj\Debug\IntegrationTest.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\IntegrationTest\bin\Debug\IntegrationTest.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\IntegrationTest\bin\Debug\IntegrationTest.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\IntegrationTest\bin\Debug\Infrastructure.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\IntegrationTest\bin\Debug\Model.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\IntegrationTest\bin\Debug\Services.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\IntegrationTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\IntegrationTest\bin\Debug\Infrastructure.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\IntegrationTest\bin\Debug\Model.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\IntegrationTest\bin\Debug\Services.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\IntegrationTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\IntegrationTest\obj\Debug\IntegrationTest.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\RestFramework\IntegrationTest\obj\Debug\IntegrationTest.pdb

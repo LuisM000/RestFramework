@@ -1,0 +1,9 @@
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Infraestructure.Services.Test\bin\Debug\Infraestructure.Services.Test.dll
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Infraestructure.Services.Test\bin\Debug\Infraestructure.Services.Test.pdb
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Infraestructure.Services.Test\bin\Debug\Infrastructure.dll
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Infraestructure.Services.Test\bin\Debug\Infrastructure.pdb
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Infraestructure.Services.Test\obj\Debug\Infraestructure.Services.Test.csprojResolveAssemblyReference.cache
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Infraestructure.Services.Test\obj\Debug\Infraestructure.Services.Test.dll
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Infraestructure.Services.Test\obj\Debug\Infraestructure.Services.Test.pdb
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Infraestructure.Services.Test\bin\Debug\Newtonsoft.Json.dll
+c:\users\luis\documents\visual studio 2013\Projects\RestFramework\Infraestructure.Services.Test\bin\Debug\Newtonsoft.Json.xml
